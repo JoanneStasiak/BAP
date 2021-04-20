@@ -75,3 +75,6 @@ This is a list of the most important differences per chapter.
 
 
 The main aim from the first edition remains. That is, to help people with some Python experience but with no previous statistical knowledge to get started with Bayesian data analysis and probabilistic programming.
+
+
+Joanne's forked version
